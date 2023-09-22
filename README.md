@@ -15,7 +15,7 @@
 10. Faça o push do projeto no seu github;
 <p>Ao finalizar, responda a atividade enviando o link do projeto no classroom.</p>
 
-<a href="[https://github.com/heduardoPro/Desenvolvimento-Sistemas-Web/tree/main/django](https://github.com/heduardoPro/Desenvolvimento-Sistemas-Web/tree/8df4a7eb1ccf1b97d8b80e8be42b36643c5301c4/Atividades/005)https://github.com/heduardoPro/Desenvolvimento-Sistemas-Web/tree/8df4a7eb1ccf1b97d8b80e8be42b36643c5301c4/Atividades/005"><h2>Atividade 05</h2></a>
+<a href="https://github.com/heduardoPro/Desenvolvimento-Sistemas-Web/tree/main/django](https://github.com/heduardoPro/Desenvolvimento-Sistemas-Web/tree/8df4a7eb1ccf1b97d8b80e8be42b36643c5301c4/Atividades/005)https://github.com/heduardoPro/Desenvolvimento-Sistemas-Web/tree/8df4a7eb1ccf1b97d8b80e8be42b36643c5301c4/Atividades/005](https://github.com/heduardoPro/Desenvolvimento-Sistemas-Web/tree/main/Atividades/005)"><h2>Atividade 05</h2></a>
 
 Utilize os arquivos do projeto anexo e faça:
 1. Crie um projeto django;

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QuerySets Exercicio</title>
+</head>
+<body>
+    <h1>Respostas</h1>
+
+    <h2>Questão 1 - Livros por Autor</h2>
+    {% for questao in questao1 %}  
+        <p>
+            {{ questao.title }}
+        </p>
+    {% endfor %}
+
+    <h2>Questão 2 - Livros com Tags Especificas</h2>
+    {% for questao in questao2 %}  
+        <p>
+            {{ questao.title }}
+        </p>
+    {% endfor %}
+
+    <h2>Questão 3 - Listar Autores com Biografias Especificas</h2>
+    {% for questao in questao3 %}  
+        <p>
+            {{ questao.name }}
+        </p>
+    {% endfor %}
+
+    <h2>Questão 4 - Livros com Avaliacoes Altas</h2>
+    {% for questao in questao4 %}  
+        <p>
+            {{ questao.book}}
+        </p>
+    {% endfor %}
+    <h2>Questão 5 - Perfil de Usu ́arios com Websites Específicos</h2>
+    {% for questao in questao5 %}  
+        <p>
+            {{ questao.user }}
+        </p>
+    {% endfor %}
+    <h2>Questão 6 - Livros sem Avaliacoes</h2>
+    {% for questao in questao6 %}  
+        <p>
+            {{ questao.user }}
+        </p>
+    {% endfor %}
+    <h2>Questão 7 - Autores com Maior Número de Livros</h2>
+    {% for questao in questao7 %}  
+        <p>
+            Autor: {{ questao.name }} | Número de Livros: {{ questao.num__books }}
+        </p>
+    {% endfor %}
+
+
+</body>
+</html>
